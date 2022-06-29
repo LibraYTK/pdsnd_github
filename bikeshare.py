@@ -177,7 +177,7 @@ def user_stats(df):
 
 
 def display_data(df):
-
+    """Display 5 trip data per page"""
     print('\nCalculating User Stats...\n')
     start_time = time.time()
     view_data = input("Would you like to view 5 rows of individual trip data? Enter yes or no?")
