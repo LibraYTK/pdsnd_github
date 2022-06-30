@@ -7,7 +7,7 @@
 Udacity Bike_Share python project
 
 ### Description
-Drawing the data from different csv file and do analysis
+Drawing the data from different CSV files and doing analysis
 
 ### Files used
 new_york_city.csv chicago.csv washington.csv
