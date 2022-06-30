@@ -13,4 +13,4 @@ Drawing the data from different csv file and do analysis
 new_york_city.csv chicago.csv washington.csv
 
 ### Credits
-Thank you for making these quizzes and project for us to learn programming
+Thank you for providing these quizzes and project for us to learn programming
